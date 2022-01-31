@@ -1,0 +1,15 @@
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.deps.json
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.runtimeconfig.json
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.dll
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/ref/Example005_Condition.dll
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.AssemblyReference.cache
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfoInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfo.cs
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.CoreCompileInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.dll
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/ref/Example005_Condition.dll
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.genruntimeconfig.cache
