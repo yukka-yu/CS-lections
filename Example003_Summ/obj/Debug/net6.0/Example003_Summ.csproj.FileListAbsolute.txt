@@ -1,0 +1,15 @@
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/Example003_Summ
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/Example003_Summ.deps.json
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/Example003_Summ.runtimeconfig.json
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/Example003_Summ.dll
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/ref/Example003_Summ.dll
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/bin/Debug/net6.0/Example003_Summ.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.csproj.AssemblyReference.cache
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.AssemblyInfoInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.AssemblyInfo.cs
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.csproj.CoreCompileInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.dll
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/ref/Example003_Summ.dll
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example003_Summ/obj/Debug/net6.0/Example003_Summ.genruntimeconfig.cache
