@@ -1,0 +1,15 @@
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/Example001_HelloConosole
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/Example001_HelloConosole.deps.json
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/Example001_HelloConosole.runtimeconfig.json
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/Example001_HelloConosole.dll
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/ref/Example001_HelloConosole.dll
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/bin/Debug/net6.0/Example001_HelloConosole.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.csproj.AssemblyReference.cache
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.AssemblyInfoInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.AssemblyInfo.cs
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.csproj.CoreCompileInputs.cache
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.dll
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/ref/Example001_HelloConosole.dll
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.pdb
+/home/sasha/Documents/Developing/C#/Examples/Example001_HelloConosole/obj/Debug/net6.0/Example001_HelloConosole.genruntimeconfig.cache
